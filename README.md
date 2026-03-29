@@ -1,4 +1,4 @@
-Xiaoduan Group Chat Edition Version 1.0.0 - Initial Release | The Future is Here
+Xiaoduan Ai Group Chat Edition Version 1.0.0 - Initial Release | The Future is Here
 
 Features:
 
@@ -12,7 +12,8 @@ Features:
 - Two Modes: Extreme TOKEN Saving ⇄ Extreme Complex Task Processing (one-click switch)
 - Permanent Memory + Unlimited Context + Unlimited Content Detail
 - Secure & Reliable
-小端群聊版 版本 1.0.0 - 首发版 | 未来已来
+- 
+小端Ai群聊版 版本 1.0.0 - 首发版 | 未来已来
 
 功能特点：
 
